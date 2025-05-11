@@ -47,7 +47,7 @@ else:
     print('Voce não está autorizado')
 
 """
-# Pede a nota do aluno
+# Informe a sua nota 
 nota = float(input("Digite a nota do aluno (0 a 10): "))
 
 # Verifica a situação com if, elif e else
