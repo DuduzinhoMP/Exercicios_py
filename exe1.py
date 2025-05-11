@@ -4,7 +4,7 @@ Nome e seu peso
 """
 
 
-nome = 'Eduardo'
+nome = 'Leo'
 altura = 1.68
 peso = 60
 imc = 60 / (1.68 * 1.68)
